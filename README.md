@@ -6,7 +6,7 @@ Implement a REST API using Python and FastAPI
 
 ## Running
 
-Run using the following command: ``
+Run using the following command: `uvicorn app:app --reload`
 
 ## Authors
 
